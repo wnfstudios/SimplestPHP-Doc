@@ -2,9 +2,9 @@
     <div class="card-content">
         <div class="content">
             <h2>About SimplestPHP</h2>
-            SimplestPHP Framework is not only a MVC script, actually is common we see a lot of frameworks on the Internet with a lot of useless features,
+            SimplestPHP Framework is not only a MVC script, actually is very common we see a lot of frameworks on the Internet with a lot of useless features,
             well, atleast for some people, those people do not need or want a lot of things, they want just the necessary. With this such of mind, 
-            we started theproject SimplestPHP, it is simple? Yes, of course, it will be updated anyway and more features will come in.
+            we started the project SimplestPHP, is it simple? Yes, of course, it will be updated anyway and more features will come in.
         </div>
     </div>
     
